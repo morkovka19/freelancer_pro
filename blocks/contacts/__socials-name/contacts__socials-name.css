@@ -1,0 +1,9 @@
+.contacts__socials-name{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 34px;
+
+}

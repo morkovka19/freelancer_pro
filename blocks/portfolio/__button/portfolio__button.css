@@ -1,0 +1,17 @@
+.portfolio__button{
+    width: 120px;
+    height: 36px;
+    background-color: #ec1F46;
+    color: #ffffff;
+    text-align: center;
+    margin-left: 30px;
+    margin-bottom: 28px;
+    margin-top: 12px;
+    border-radius: 5px;
+    border: none;
+    transition: transform linear .3s;
+}
+
+.portfolio__button:hover{
+    transform: scale(1.05);
+}

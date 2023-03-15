@@ -1,0 +1,13 @@
+.contacts__form{
+    padding: 0;
+    margin: 0;
+    width: 464px;
+    height: 456px;
+    background-color: #ffffff; 
+    box-shadow: -4px 4px #ffbb01;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}

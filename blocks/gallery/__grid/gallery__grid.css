@@ -1,0 +1,7 @@
+.gallery__grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 73.75%;
+    height: 79%;
+}

@@ -1,0 +1,9 @@
+.contacts__text{
+    height: 462px;
+    width: 384px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+
+}

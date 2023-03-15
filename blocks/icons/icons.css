@@ -1,0 +1,10 @@
+.icons{
+    transition: transform linear .3s;
+    width: 20px;
+    height: 20px;
+
+}
+
+.icons:hover{
+    transform: scale(1.1);
+}

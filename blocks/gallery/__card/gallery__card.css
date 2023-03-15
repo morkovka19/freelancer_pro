@@ -1,0 +1,10 @@
+.gallery__card{
+    width: 224px;
+    height: 224px;
+    object-fit: cover;
+    transition: transform linear .3s;
+}
+
+.gallery__card:hover{
+    transform: scale(1.05);
+}

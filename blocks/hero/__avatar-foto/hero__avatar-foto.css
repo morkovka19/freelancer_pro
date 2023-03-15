@@ -1,0 +1,6 @@
+.hero__avatar-foto{
+    width: 362px;
+    height: 362px;
+    border-radius: 50%;
+    object-fit: cover;
+}

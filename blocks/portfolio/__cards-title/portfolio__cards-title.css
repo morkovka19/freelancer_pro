@@ -1,0 +1,13 @@
+.portfolio__cards-title{
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    line-height: 28px;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 30px;
+    margin-top: 172px;
+    width: 172px;
+    box-sizing: content-box;
+    height: 56px;
+}

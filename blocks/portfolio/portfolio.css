@@ -1,0 +1,12 @@
+.portfolio{
+    margin: 0;
+    padding: 0;
+    background-color: #1b2944;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    display: flex;
+    justify-content:  center;
+
+    
+    flex-direction: column;
+}

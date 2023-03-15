@@ -1,0 +1,15 @@
+.header{
+    padding: 0;
+    margin: 0;
+    width: 73.75%;
+    max-width: 1024px;
+    height: 28px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    top: 41px;
+    background-color: #182944;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

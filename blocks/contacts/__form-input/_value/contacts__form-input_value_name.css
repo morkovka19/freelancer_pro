@@ -1,0 +1,5 @@
+.contacts__form-input_value_name::placeholder{
+    background: url(../../../../images/user-icon.svg) no-repeat;
+    padding-left: 33px;
+    background-size: contain;
+}

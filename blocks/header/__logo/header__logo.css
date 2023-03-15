@@ -1,0 +1,9 @@
+.header__logo{
+    width: 100px;
+    height: 28px;
+    transition: transform linear .3s;
+}
+
+.header__logo:hover{
+    transform: scale(1.05);
+}

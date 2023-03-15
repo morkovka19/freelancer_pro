@@ -1,0 +1,13 @@
+.hero__content{
+    margin: 0;
+    padding: 0;
+    height: 384px;
+    width: 73.75%;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 71px;
+    
+}

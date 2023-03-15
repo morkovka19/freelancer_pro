@@ -1,0 +1,9 @@
+.hero__elips{
+    background-color: #ffffff;
+    width: 384px;
+    height: 384px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,6 @@
+.contacts__form-input_value_tel::placeholder{
+    background: url(../../../../images/phone-icon.svg) no-repeat;
+    padding-left: 33px;
+    background-size: contain;
+
+}
